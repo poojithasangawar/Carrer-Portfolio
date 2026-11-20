@@ -1,4 +1,4 @@
-# Carrer-Portfolio
+# Career-Portfolio
 Professional career portfolio for data analytics and business analytics
 
 # Poojitha Sangawar – Career Portfolio
